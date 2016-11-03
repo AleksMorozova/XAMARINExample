@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5px"
+    android:paddingTop="5px">
+  <LinearLayout
+      android:orientation="vertical"
+      android:minWidth="25px"
+      android:minHeight="25px"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/linearLayout1">
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        cardview:cardCornerRadius="6pt"
+        cardview:cardBackgroundColor="#FFFFFF"
+        cardview:cardElevation="2dp"
+        cardview:cardUseCompatPadding="true"
+        cardview:cardMaxElevation="3dp"
+        android:elevation="5dp">
+      <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="10dp"
+          android:layout_marginTop="7dp"
+          android:layout_marginBottom="7dp"
+          android:id="@+id/linearLayout7">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout1">
+          <LinearLayout
+              android:orientation="vertical"
+              android:layout_width="360dp"
+              android:layout_height="wrap_content"
+              android:id="@+id/linearLayout3">
+            <TextView
+                android:text="Large Text"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/titleText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:typeface="serif"
+                android:fontFamily="sans-serif"
+                android:textColor="#414655"
+                android:elegantTextHeight="true" />
+          </LinearLayout>
+          <ImageView
+              android:src="@drawable/arrsmaller"
+              android:layout_width="wrap_content"
+              android:layout_height="match_parent"
+              android:id="@+id/imageView1" />
+        </LinearLayout>
+        <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/linearLayout1">
+          <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout1">
+            <TableRow
+              android:id="@+id/tableRow1">
+              <TextView
+                android:text="Date Listed"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_column="0"
+                android:id="@+id/dateListedLabel"
+                android:layout_width="145dp"
+                android:textColor="#414655"
+                android:textSize="20dp"
+                android:layout_marginRight="20.0dp" />
+              <TextView
+                android:text="Quantity"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_column="1"
+                android:id="@+id/quantityLabel"
+                android:textColor="#414655"
+                android:textSize="20dp"
+                android:layout_width="99.0dp" />
+              <TextView
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_column="2"
+                android:textSize="15dp"
+                android:fontFamily="sans-serif"
+                android:textColor="#676b77"
+                android:id="@+id/quantityText" />
+            </TableRow>
+            <TableRow
+               android:id="@+id/tableRow4">
+              <TextView
+                  android:text="Medium Text"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:layout_column="0"
+                  android:id="@+id/dateListedText"
+                  android:fontFamily="sans-serif-light"
+                  android:layout_width="164.5dp" />
+              <TextView
+                  android:text="Frequency"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:layout_column="1"
+                  android:textColor="#414655"
+                  android:textSize="20dp"
+                  android:id="@+id/frequencyLabel" />
+              <TextView
+                  android:text="Medium Text"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:layout_column="2"
+                  android:textSize="15dp"
+                  android:fontFamily="sans-serif"
+                  android:textColor="#676b77"
+                  android:id="@+id/frequencyText" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow5">
+              <TextView
+                  android:text="Route"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:layout_column="1"
+                  android:textColor="#414655"
+                  android:textSize="20dp"
+                  android:id="@+id/routeLabel" />
+              <TextView
+                  android:text="Medium Text"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:layout_column="2"
+                  android:textSize="15dp"
+                  android:fontFamily="sans-serif"
+                  android:textColor="#676b77"
+                  android:id="@+id/routeText" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2">
+              <TextView
+                  android:text="Duration"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:layout_column="1"
+                  android:id="@+id/durationLabel"
+                  android:textColor="#414655"
+                  android:textSize="20dp"
+                  style="@android:style/Widget.Holo.TextView" />
+              <TextView
+                  android:text="Medium Text"
+                  android:textAppearance="?android:attr/textAppearanceMedium"
+                  android:layout_column="2"
+                  android:textSize="15dp"
+                  android:fontFamily="sans-serif"
+                  android:textColor="#676b77"
+                  android:id="@+id/durationText" />
+            </TableRow>
+          </TableLayout>
+          <Button
+              android:text="Schedule"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/button1"
+              style="@android:style/Widget.Material.Button.Borderless.Colored"
+              android:layout_marginTop="0.0dp"
+              android:layout_marginBottom="5dp" />
+        </LinearLayout>
+      </LinearLayout>
+    </android.support.v7.widget.CardView>
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,226 @@
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\MedicationsList.dll
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\MedicationsList.pdb
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\MedicationsList.MedicationsList.apk
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\MedicationsList.MedicationsList-Signed.apk
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\MedicationsList.dll
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\MedicationsList.pdb
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\bin\MedicationsList.MedicationsList.apk
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\main.xml
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\values\strings.xml
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\drawable\icon.png
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\R.cs.flag
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\uploadflags.txt
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\item.xml
+c:\users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\detail.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\schedule.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\list.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\values\colors.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon1.png
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon2.png
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon3.png
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon4.png
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon5.png
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\header.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\visitslist.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\visitsdetail.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_approved.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_evaluated.xml
+C:\Users\omor\documents\visual studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\evaluate.xml
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\rejection.xml
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\evaluatedpage.xml
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\rejectiondetail.xml
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_proposed.xml
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\res\drawable\rt.png
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\MedicationsList.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\Java.Interop.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\Mono.Android.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\mscorlib.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.Core.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.Xml.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\MedicationsList.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\omor\Documents\Visual Studio 2015\Projects\MedicationsList\MedicationsList\obj\Debug\MedicationsList.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\MedicationsList.dll
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\MedicationsList.pdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\MedicationsList.MedicationsList.apk
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\MedicationsList.MedicationsList-Signed.apk
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\MedicationsList.dll
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\MedicationsList.pdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\bin\MedicationsList.MedicationsList.apk
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\item.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\detail.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\schedule.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\list.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\header.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\visitslist.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\visitsdetail.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_approved.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_evaluated.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\evaluate.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\rejection.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\evaluatedpage.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\rejectiondetail.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_proposed.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\layout\main.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\values\strings.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\icon.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\values\colors.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon1.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon2.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon3.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon4.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon5.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\rt.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\R.cs.flag
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\uploadflags.txt
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\phone.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\emg.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\arrowheder.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\homepage.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\notificationmenu.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\settingsmenu.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\calendarmenu.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\chatmenu.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\MedicationsList.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\Java.Interop.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\Mono.Android.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\mscorlib.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.Core.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.Net.Http.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.Xml.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\bin\Debug\System.Xml.Linq.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\MedicationsList.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Core.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\button_bg_stroke.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\values\styles.xml
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\settingsmall.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\settingsmall2.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\MedicationsList.csprojResolveAssemblyReference.cache
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\calendarsmall.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\chatsmall.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\homesmall.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\res\drawable\notifiactionsmall.png
+D:\LaVidaXAMARIN\MedicationsList\MedicationsList\obj\Debug\MedicationsList.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\MedicationsList.dll
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\MedicationsList.pdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\MedicationsList.MedicationsList.apk
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\MedicationsList.MedicationsList-Signed.apk
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\MedicationsList.dll
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\MedicationsList.pdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\bin\MedicationsList.MedicationsList.apk
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\item.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\detail.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\schedule.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\list.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\header.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\visitslist.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\visitsdetail.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_approved.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_evaluated.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\evaluate.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\rejection.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\evaluatedpage.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\rejectiondetail.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\visititem_proposed.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\main.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\values\strings.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\icon.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\values\colors.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon1.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon2.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon3.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon4.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\ic_icon5.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\rt.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\phone.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\emg.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\arrowheder.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\homepage.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\notificationmenu.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\settingsmenu.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\calendarmenu.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\chatmenu.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\button_bg_stroke.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\values\styles.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\settingsmall.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\settingsmall2.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\calendarsmall.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\chatsmall.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\homesmall.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\notifiactionsmall.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\R.cs.flag
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\uploadflags.txt
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\rtsmall.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\visits_test.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\layout1.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\prescribedmedications.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\MedicationsList.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\Java.Interop.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\Mono.Android.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\mscorlib.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.Core.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.Net.Http.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.Xml.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\System.Xml.Linq.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\MedicationsList.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Core.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\MedicationsList.csprojResolveAssemblyReference.cache
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\arrow.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\group.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\medic.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\arr.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\drawable\arrsmaller.png
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\expandedmedicationitem.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\res\layout\medicationdetail.xml
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\obj\Debug\MedicationsList.dll.mdb
+D:\LaVidaXAMARIN\Copy\MedicationsList\MedicationsList\bin\Debug\MedicationsList.dll.mdb

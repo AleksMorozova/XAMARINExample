@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="match_parent"
+    p1:layout_height="wrap_content"
+    p1:id="@+id/linearLayout1"
+    p1:layout_marginLeft="25dp"
+    p1:layout_marginRight="25dp"
+    p1:background="@android:color/background_light">
+    <TableLayout
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:layout_marginLeft="25dp"
+        p1:layout_marginRight="25dp"
+        p1:id="@+id/tableLayout1">
+        <TableRow
+            p1:id="@+id/tableRow1">
+            <TextView
+                p1:text="Date Listed"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="0"
+                p1:id="@+id/dateListedLabel"
+                p1:layout_width="169.0dp"
+                p1:layout_marginRight="20.0dp" />
+            <TextView
+                p1:text="Quantity"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="1"
+                p1:id="@+id/quantityLabel"
+                p1:layout_width="99.0dp" />
+            <TextView
+                p1:text="Medium Text"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="2"
+                p1:fontFamily="sans-serif-light"
+                p1:id="@+id/quantityText" />
+        </TableRow>
+        <TableRow
+            p1:id="@+id/tableRow4">
+            <TextView
+                p1:text="Medium Text"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="0"
+                p1:id="@+id/dateListedText"
+                p1:fontFamily="sans-serif-light"
+                p1:layout_width="164.5dp" />
+            <TextView
+                p1:text="Frequency"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="1"
+                p1:id="@+id/frequencyLabel" />
+            <TextView
+                p1:text="Medium Text"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="2"
+                p1:fontFamily="sans-serif-light"
+                p1:id="@+id/frequencyText" />
+        </TableRow>
+        <TableRow
+            p1:id="@+id/tableRow5">
+            <TextView
+                p1:text="Route"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="1"
+                p1:id="@+id/routeLabel" />
+            <TextView
+                p1:text="Medium Text"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="2"
+                p1:fontFamily="sans-serif-light"
+                p1:id="@+id/routeText" />
+        </TableRow>
+        <TableRow
+            p1:id="@+id/tableRow2">
+            <TextView
+                p1:text="Duration"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="1"
+                p1:id="@+id/durationLabel"
+                style="@android:style/Widget.Holo.TextView" />
+            <TextView
+                p1:text="Medium Text"
+                p1:textAppearance="?android:attr/textAppearanceMedium"
+                p1:layout_column="2"
+                p1:fontFamily="sans-serif-light"
+                p1:id="@+id/durationText" />
+        </TableRow>
+    </TableLayout>
+    <Button
+        p1:text="Schedule"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1"
+        style="@android:style/Widget.Material.Button.Borderless.Colored"
+        p1:layout_marginTop="0.0dp"
+        p1:layout_marginBottom="5dp" />
+</LinearLayout>
